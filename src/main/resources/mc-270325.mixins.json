@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "me.drex.mc270325.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "DataFixersMixin",
+    "ItemStackComponentizationFixMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
